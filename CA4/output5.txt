@@ -1,0 +1,3 @@
+Number of floating point numbers: 39
+Number of integer numbers: 29
+Number of errors: 6

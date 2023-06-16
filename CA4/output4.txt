@@ -1,0 +1,7 @@
+7.2 +      52 = 59.2
+-84.3 * 2 = -168.6
+    6.42 / -1.5 = -4.28
+-15.23 - 12.18 = -27.41
+9.37 % 3 = 0.3699999999999992
+9.36 / 0 is not a valid arithmetic operation
+9.35 % 0 is not a valid arithmetic operation
